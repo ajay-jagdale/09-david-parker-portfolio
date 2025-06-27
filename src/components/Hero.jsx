@@ -1,5 +1,5 @@
 import React from 'react';
-import img from '../assets/image.png';
+import img from '/assets/image.png';
 
 const Hero = () => (
   <section className="min-h-screen flex items-center justify-center pt-20 sm:pt-24 pb-12 sm:pb-16 bg-gradient-to-br from-gray-900 via-slate-800 to-gray-900">

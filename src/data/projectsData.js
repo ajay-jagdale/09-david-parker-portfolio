@@ -3,7 +3,7 @@ export const projectsData = [
   {
     id: 1,
     title: 'E-Commerce Website',
-    imageUrl: 'src/assets/e-commerce-website.png',
+    imageUrl: '/assets/e-commerce-website.png',
     tags: ['React.js', 'Express.js', 'MongoDB'],
     liveUrl: '#',
     repoUrl: '#',
@@ -11,7 +11,7 @@ export const projectsData = [
   {
     id: 2,
     title: 'Video Conferencing App',
-    imageUrl: 'src/assets/video-conferencing-app.png',
+    imageUrl: '/assets/video-conferencing-app.png',
     tags: ['Next.js', 'Node.js', 'Zegocloud API'],
     liveUrl: '#',
     repoUrl: '#',
@@ -19,7 +19,7 @@ export const projectsData = [
   {
     id: 3,
     title: 'Weather App',
-    imageUrl: 'src/assets/weather-app.png',
+    imageUrl: '/assets/weather-app.png',
     tags: ['Next.js', 'Node.js', 'Weather API'],
     liveUrl: '#',
     repoUrl: '#',
